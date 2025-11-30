@@ -1,0 +1,6 @@
+{
+    "close_look": 0,
+    "forward_look": 1,
+    "left_look": 2,
+    "right_look": 3
+}
